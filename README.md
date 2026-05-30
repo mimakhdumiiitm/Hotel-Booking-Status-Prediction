@@ -5,6 +5,9 @@ This repository contains the solution notebook for **Kaggle Assignment 2** as pa
 > 🔗 **Kaggle Competition Link:** [MLP Term 3 2025 Kaggle Assignment 2](https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-2)  
 > *Note: The competition has been made private by the authorities following the completion of the assignment evaluation, so the original work is archived and shared here.*
 
+> ⚠️ **Notebook Note:** The notebook may not render on GitHub due to a persistent `nbformat`/`nbconvert` issue. Please use the Google Colab link below.
+> [Open Notebook in Colab](https://colab.research.google.com/drive/1VqVcJgJdg1zb1JpIzefaD2gZjX5YNuou?usp=sharing)
+
 ## 📌 Project Overview
 The objective of this project is to build an end-to-end Machine Learning pipeline to predict hotel booking cancellations (`booking_status`) based on historical customer reservation data. 
 
